@@ -1,0 +1,14 @@
+
+body{
+	background: url('book.jpg');
+}
+
+div {
+	width: 500px;
+	height: 850px;
+	background-color: #d4d4d4;
+	margin: 100px auto;
+	padding: 50px;
+	border: 5px solid;
+
+}
